@@ -189,12 +189,7 @@ body {
     padding: 15px;
 }
 
-#footer-left {
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
-
-#footer-right {
+#footer div {
     margin-top: 15px;
     margin-bottom: 15px;
 }
